@@ -1,0 +1,194 @@
+{
+  "albums": [
+    {
+      "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+      "released": "2019-03-29T00:00:00.000Z",
+      "originallyReleased": "2019-03-29T00:00:00.000Z",
+      "label": "Darkroom/Interscope Records",
+      "trackCount": 14,
+      "artistName": "Billie Eilish",
+      "imageHref": "http://static.rhap.com/img/500x500/2/1/9/3/13813912_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.364895046/tracks"
+    },
+    {
+      "name": "Please Excuse Me For Being Antisocial",
+      "released": "2019-12-06T00:00:00.000Z",
+      "originallyReleased": "2019-12-06T00:00:00.000Z",
+      "label": "Atlantic Records",
+      "trackCount": 16,
+      "artistName": "Roddy Ricch",
+      "imageHref": "http://static.rhap.com/img/500x500/6/9/3/9/17819396_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.426965133/tracks"
+    },
+    {
+      "name": "BLAME IT ON BABY",
+      "released": "2020-04-17T00:00:00.000Z",
+      "originallyReleased": "2020-04-17T00:00:00.000Z",
+      "label": "South Coast Music Group/Interscope Records",
+      "trackCount": 13,
+      "artistName": "DaBaby",
+      "imageHref": "http://static.rhap.com/img/500x500/2/0/0/7/18697002_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.466583251/tracks"
+    },
+    {
+      "name": "beerbongs & bentleys",
+      "released": "2018-06-16T00:00:00.000Z",
+      "originallyReleased": "2018-04-27T00:00:00.000Z",
+      "label": "Republic Records",
+      "trackCount": 18,
+      "artistName": "Post Malone",
+      "imageHref": "http://static.rhap.com/img/500x500/5/2/0/8/11048025_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.310499159/tracks"
+    },
+    {
+      "name": "Hollywood's Bleeding",
+      "released": "2019-09-06T00:00:00.000Z",
+      "originallyReleased": "2019-09-06T00:00:00.000Z",
+      "label": "Republic Records",
+      "trackCount": 17,
+      "artistName": "Post Malone",
+      "imageHref": "http://static.rhap.com/img/500x500/5/3/5/3/15493535_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.404757753/tracks"
+    },
+    {
+      "name": "If I Know Me",
+      "released": "2019-04-25T00:00:00.000Z",
+      "originallyReleased": "2018-04-27T00:00:00.000Z",
+      "label": "Big Loud Records",
+      "trackCount": 14,
+      "artistName": "Morgan Wallen",
+      "imageHref": "http://static.rhap.com/img/500x500/3/8/4/8/17668483_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.309898159/tracks"
+    },
+    {
+      "name": "÷ (Deluxe)",
+      "released": "2017-03-03T00:00:00.000Z",
+      "originallyReleased": "2017-01-13T00:00:00.000Z",
+      "label": "Atlantic Records Uk",
+      "trackCount": 16,
+      "artistName": "Ed Sheeran",
+      "imageHref": "http://static.rhap.com/img/500x500/2/0/5/1/13001502_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.253965723/tracks"
+    },
+    {
+      "name": "This One's for You",
+      "released": "2017-06-02T00:00:00.000Z",
+      "originallyReleased": "2017-06-02T00:00:00.000Z",
+      "label": "River House Artists/Columbia Nashville",
+      "trackCount": 12,
+      "artistName": "Luke Combs",
+      "imageHref": "http://static.rhap.com/img/500x500/5/3/9/6/9296935_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.263136894/tracks"
+    },
+    {
+      "name": "This One's for You Too (Deluxe Edition)",
+      "released": "2018-06-01T00:00:00.000Z",
+      "originallyReleased": "2018-06-01T00:00:00.000Z",
+      "label": "River House Artists/Columbia Nashville",
+      "trackCount": 17,
+      "artistName": "Luke Combs",
+      "imageHref": "http://static.rhap.com/img/500x500/2/9/9/7/11257992_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.314832302/tracks"
+    },
+    {
+      "name": "24K Magic",
+      "released": "2016-11-18T00:00:00.000Z",
+      "originallyReleased": "2016-11-18T00:00:00.000Z",
+      "label": "Atlantic Records",
+      "trackCount": 9,
+      "artistName": "Bruno Mars",
+      "imageHref": "http://static.rhap.com/img/500x500/2/2/3/5/16195322_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.243984585/tracks"
+    },
+    {
+      "name": "Rearview Town",
+      "released": "2018-04-27T00:00:00.000Z",
+      "originallyReleased": "2018-04-27T00:00:00.000Z",
+      "label": "Broken Bow Records",
+      "trackCount": 15,
+      "artistName": "Jason Aldean",
+      "imageHref": "http://static.rhap.com/img/500x500/6/2/5/1/10751526_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.303645507/tracks"
+    },
+    {
+      "name": "DAMN.",
+      "released": "2017-04-14T00:00:00.000Z",
+      "originallyReleased": "2017-04-14T00:00:00.000Z",
+      "label": "Aftermath",
+      "trackCount": 14,
+      "artistName": "Kendrick Lamar",
+      "imageHref": "http://static.rhap.com/img/500x500/7/0/1/0/9140107_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.259004943/tracks"
+    },
+    {
+      "name": "Scorpion",
+      "released": "2018-06-29T00:00:00.000Z",
+      "originallyReleased": "2018-06-29T00:00:00.000Z",
+      "label": "Cash Money/Drake LP6",
+      "trackCount": 25,
+      "artistName": "Drake",
+      "imageHref": "http://static.rhap.com/img/500x500/8/7/9/8/11738978_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.323055279/tracks"
+    },
+    {
+      "name": "California Sunrise",
+      "released": "2016-06-17T00:00:00.000Z",
+      "originallyReleased": "2016-06-17T00:00:00.000Z",
+      "label": "Capitol Records Nashville",
+      "trackCount": 12,
+      "artistName": "Jon Pardi",
+      "imageHref": "http://static.rhap.com/img/500x500/4/2/3/1/8091324_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.230477459/tracks"
+    },
+    {
+      "name": "After Hours",
+      "released": "2020-03-20T00:00:00.000Z",
+      "originallyReleased": "2020-03-20T00:00:00.000Z",
+      "label": "Republic Records",
+      "trackCount": 14,
+      "artistName": "The Weeknd",
+      "imageHref": "http://static.rhap.com/img/500x500/7/1/8/8/18208817_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.455020162/tracks"
+    },
+    {
+      "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+      "released": "2018-12-14T00:00:00.000Z",
+      "originallyReleased": "2018-12-14T00:00:00.000Z",
+      "label": "Universal Records",
+      "trackCount": 13,
+      "artistName": "Various Artists",
+      "imageHref": "http://static.rhap.com/img/500x500/7/5/5/5/12815557_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.340035723/tracks"
+    },
+    {
+      "name": "Invasion of Privacy",
+      "released": "2018-04-06T00:00:00.000Z",
+      "originallyReleased": "2018-04-06T00:00:00.000Z",
+      "label": "Atlantic/KSR",
+      "trackCount": 13,
+      "artistName": "Cardi B",
+      "imageHref": "http://static.rhap.com/img/500x500/2/7/3/0/16070372_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.307691366/tracks"
+    },
+    {
+      "name": "Stoney (Deluxe)",
+      "released": "2016-12-09T00:00:00.000Z",
+      "originallyReleased": "2016-12-09T00:00:00.000Z",
+      "label": "Universal Records",
+      "trackCount": 18,
+      "artistName": "Post Malone",
+      "imageHref": "http://static.rhap.com/img/500x500/4/4/1/0/8660144_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.245806615/tracks"
+    },
+    {
+      "name": "ASTROWORLD",
+      "released": "2018-08-02T00:00:00.000Z",
+      "originallyReleased": "2018-08-02T00:00:00.000Z",
+      "label": "Cactus Jack / Epic / Grand Hustle",
+      "trackCount": 17,
+      "artistName": "Travis Scott",
+      "imageHref": "http://static.rhap.com/img/500x500/2/4/7/8/13808742_500x500.jpg",
+      "tracksHref": "https://api.napster.com/v2.2/albums/alb.323582966/tracks"
+    }
+  ]
+}
